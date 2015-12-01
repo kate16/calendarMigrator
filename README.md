@@ -1,6 +1,6 @@
 # calendarMigrator #
 
-This is a simple python script to migrate all events from . In order to be successful, you must be able to edit both the origin and destination calendars. 
+This is a simple python script to migrate all events from one Google calendar to another. In order to be successful, you must be able to edit both the origin and destination calendars. 
 
 First, it's necessary to enable OAuth 2.0 authorization for Google Calendar API access. You can find instructions for this here: https://developers.google.com/identity/protocols/OAuth2
 
